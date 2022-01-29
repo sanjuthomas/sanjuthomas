@@ -1,1 +1,1 @@
-<h1 align="center">I am Sanju Thomas. An avid learner, scrum-er, delivery focused, highly disciplined, and business savvy software craftsman who writes clean, loosely coupled, robust, and maintainable design/code through practising agile engineering.</h1> 
+I am Sanju Thomas. An avid learner, scrum-er, delivery focused, highly disciplined, and business savvy software craftsman who writes clean, loosely coupled, robust, and maintainable design/code through practising agile engineering.

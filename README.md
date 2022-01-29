@@ -1,3 +1,3 @@
 I am <a href="https://linkedin.com/in/sanjuthomas" target="blank">Sanju Thomas.</a> I grew up in a southern Indian state called Kerala. I moved to the United States in 2013 and now live in Westfield, New Jersey. I am an avid learner, scrum-er, delivery focused, highly disciplined, and business savvy software craftsman who writes clean, loosely coupled, robust, and maintainable design/code through practising agile engineering. My latest interests include but are not limited to Reactive Programming, Event Sourcing Architecture, CQRS, and Kafka Centric ETL/Streaming solutions.
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evrentan&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjuthomas&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" /></p>
